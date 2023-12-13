@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ant-react-pro/static/css/main.8e27764e.css",
-    "main.js": "/ant-react-pro/static/js/main.f12849b5.js",
-    "static/media/power.png": "/ant-react-pro/static/media/power.550629cf6dff888f63fe.png",
-    "static/media/ant-gun.png": "/ant-react-pro/static/media/ant-gun.44635429ca08e3da3e0b.png",
-    "static/media/bepop.png": "/ant-react-pro/static/media/bepop.fb806b6b8d5163e5003d.png",
-    "static/media/ant-fire.png": "/ant-react-pro/static/media/ant-fire.46ef652806f444feac6d.png",
-    "static/media/ant-box.png": "/ant-react-pro/static/media/ant-box.c221536aa566c6b66170.png",
-    "static/media/ant-sand.png": "/ant-react-pro/static/media/ant-sand.7d9e4b5406ebeabc51ba.png",
-    "static/media/ant-horse.png": "/ant-react-pro/static/media/ant-horse.42af9fe3b191629a1dcd.png",
-    "static/media/mulan.png": "/ant-react-pro/static/media/mulan.1199d5aae393e7d66acb.png",
-    "static/media/ant-black.png": "/ant-react-pro/static/media/ant-black.df46e626707b30d0d57c.png",
-    "index.html": "/ant-react-pro/index.html",
-    "main.8e27764e.css.map": "/ant-react-pro/static/css/main.8e27764e.css.map",
-    "main.f12849b5.js.map": "/ant-react-pro/static/js/main.f12849b5.js.map"
+    "main.css": "/react-ant-pro/static/css/main.8e27764e.css",
+    "main.js": "/react-ant-pro/static/js/main.1906b98a.js",
+    "static/media/power.png": "/react-ant-pro/static/media/power.550629cf6dff888f63fe.png",
+    "static/media/ant-gun.png": "/react-ant-pro/static/media/ant-gun.44635429ca08e3da3e0b.png",
+    "static/media/bepop.png": "/react-ant-pro/static/media/bepop.fb806b6b8d5163e5003d.png",
+    "static/media/ant-fire.png": "/react-ant-pro/static/media/ant-fire.46ef652806f444feac6d.png",
+    "static/media/ant-box.png": "/react-ant-pro/static/media/ant-box.c221536aa566c6b66170.png",
+    "static/media/ant-sand.png": "/react-ant-pro/static/media/ant-sand.7d9e4b5406ebeabc51ba.png",
+    "static/media/ant-horse.png": "/react-ant-pro/static/media/ant-horse.42af9fe3b191629a1dcd.png",
+    "static/media/mulan.png": "/react-ant-pro/static/media/mulan.1199d5aae393e7d66acb.png",
+    "static/media/ant-black.png": "/react-ant-pro/static/media/ant-black.df46e626707b30d0d57c.png",
+    "index.html": "/react-ant-pro/index.html",
+    "main.8e27764e.css.map": "/react-ant-pro/static/css/main.8e27764e.css.map",
+    "main.1906b98a.js.map": "/react-ant-pro/static/js/main.1906b98a.js.map"
   },
   "entrypoints": [
     "static/css/main.8e27764e.css",
-    "static/js/main.f12849b5.js"
+    "static/js/main.1906b98a.js"
   ]
 }
