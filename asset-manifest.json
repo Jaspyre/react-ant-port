@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ant-react-pro/static/css/main.8e27764e.css",
-    "main.js": "/ant-react-pro/static/js/main.684d85cb.js",
+    "main.js": "/ant-react-pro/static/js/main.f12849b5.js",
     "static/media/power.png": "/ant-react-pro/static/media/power.550629cf6dff888f63fe.png",
     "static/media/ant-gun.png": "/ant-react-pro/static/media/ant-gun.44635429ca08e3da3e0b.png",
     "static/media/bepop.png": "/ant-react-pro/static/media/bepop.fb806b6b8d5163e5003d.png",
@@ -13,10 +13,10 @@
     "static/media/ant-black.png": "/ant-react-pro/static/media/ant-black.df46e626707b30d0d57c.png",
     "index.html": "/ant-react-pro/index.html",
     "main.8e27764e.css.map": "/ant-react-pro/static/css/main.8e27764e.css.map",
-    "main.684d85cb.js.map": "/ant-react-pro/static/js/main.684d85cb.js.map"
+    "main.f12849b5.js.map": "/ant-react-pro/static/js/main.f12849b5.js.map"
   },
   "entrypoints": [
     "static/css/main.8e27764e.css",
-    "static/js/main.684d85cb.js"
+    "static/js/main.f12849b5.js"
   ]
 }
